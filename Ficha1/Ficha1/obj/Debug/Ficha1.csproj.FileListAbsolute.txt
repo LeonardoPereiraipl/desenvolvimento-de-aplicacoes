@@ -1,0 +1,10 @@
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\bin\Debug\Ficha1.exe.config
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\bin\Debug\Ficha1.exe
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\bin\Debug\Ficha1.pdb
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.csproj.AssemblyReference.cache
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.Form1.resources
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.Properties.Resources.resources
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.csproj.GenerateResource.cache
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.csproj.CoreCompileInputs.cache
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.exe
+C:\desenvolvimentoAplicacoes\Ficha1\Ficha1\obj\Debug\Ficha1.pdb
